@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Prediction of Renewable energy based on Weather Patterns",
+    "desc": "Forecasting Renewable Energy Production based on weather patterns using Machine Learning",
+    "category": "mern",
+    "links": {
+      "view": "https://colab.research.google.com/drive/1eaOxK3hZ4_jrDEvFYJIwpYfRLsVPaV86",
+      "code": "https://github.com/VrajShah0912/Prediction-of-Renewable-energy-based-on-Weather-Patterns"
+    }
+  },
+  {
+    "name": "Classify indivuals as diabetic or non-diabetic based on medical features",
+    "desc": "Classifying indivuals as diabetic or non-diabetic based on medical features like BMI, Glucose level,Insulin etc using machine learning",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://colab.research.google.com/drive/1x8wXEf13CpgKtCjHLWCHYXWItC300zRa",
+      "code": "https://github.com/VrajShah0912/Classify-indivuals-as-diabetic-or-non-diabetic-based-on-medical-features"
+    }
+  },
+  {
+    "name": "Portfolio Webiste",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/VrajShah0912/Portfolio-Website"
+    }
+  }
+]
